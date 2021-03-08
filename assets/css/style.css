@@ -111,6 +111,11 @@ section {
     background-position: center;
     position: relative;
 }
+
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
 /* Hero Style End */
 
 .hero-form {
@@ -277,16 +282,12 @@ footer {
     padding: 40px 35px;
 }
 
-footer h2 {/* REACH OUT STYLES START */
-.contact {
-  text-align: center;
-  background: #024e76;
-}
+footer h2 {
     display: inline;
     color: #024e76;
     font-size: 30px;
     margin: 0;
-}
+  }
 
 footer div {
     float: right;
